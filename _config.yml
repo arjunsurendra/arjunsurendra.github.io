@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Arjun Surendra / Student"
 title_separator          : "-"
 name                     : &name "Arjun Surendra"
-description              : &description "personal description"
+description              : &description "Portfolia of my academic works"
 url                      : https://arjunsurendra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages.github.io"
+repository               : "arjunsurendra.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
